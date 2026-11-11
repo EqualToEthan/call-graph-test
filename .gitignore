@@ -1,0 +1,13 @@
+# IDE
+.idea/
+*.iml
+
+# Build output
+target/
+out/
+build/
+
+# Local tool artifacts
+mqttx_tool-*/
+*.lck
+*.log
